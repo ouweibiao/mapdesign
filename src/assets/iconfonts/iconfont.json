@@ -1,0 +1,30 @@
+{
+  "id": "4271731",
+  "name": "map",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "989480",
+      "name": "暂停",
+      "font_class": "iconstop",
+      "unicode": "e69d",
+      "unicode_decimal": 59037
+    },
+    {
+      "icon_id": "21489530",
+      "name": "line-restart（重新开始）",
+      "font_class": "line-restartzhongxinkaishi",
+      "unicode": "e71d",
+      "unicode_decimal": 59165
+    },
+    {
+      "icon_id": "980892",
+      "name": "开始",
+      "font_class": "weibiaoti518",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    touch-action: pan-y;
+}
+
+html,
+body,
+#app {
+    height: 100%;
+    width: 100%;
+}
+
+/* 阿里字体图标设置 */
+.icon {
+    width: 1.5em;
+    height: 1.5em;
+    vertical-align: -0.15em;
+    fill: currentColor;
+    overflow: hidden;
+    cursor: pointer;
+    margin-right: 1rem;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.vertical-center {
+    display: flex;
+    align-items: center;
+}
+
+.center-horizontally {
+    display: flex;
+    justify-content: center;
+}

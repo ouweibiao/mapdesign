@@ -1,0 +1,23 @@
+卷 Data 的文件夹 PATH 列表
+卷序列号为 26E4-C9A4
+D:.
+│  App.vue（根组件）
+│  main.js（入口文件）
+│  structure.txt
+│  
+├─api
+│      api.js（为后端预留的apiJS）
+│      
+├─assets（静态文件的目录）
+│      base.css
+│      
+├─components
+│      Api.vue（api组件）
+│      Frame.vue（UI骨架组件）
+│      Map.vue（地图组件）
+│      
+├─plugins（）
+├─router（路由配置文件）
+├─store（存放存放 vuex状态管理器）
+├─utils（工具及公共函数）
+└─views（存放视图文件）
